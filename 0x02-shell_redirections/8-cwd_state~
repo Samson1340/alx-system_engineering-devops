@@ -1,0 +1,2 @@
+#!/bin/bash
+"${a=$(ls -al)}" > ls_cwd_content
