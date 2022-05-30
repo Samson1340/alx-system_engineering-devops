@@ -1,2 +1,2 @@
 #!/bin/bash
-sort /etc/passwd | cat -d
+sort /etc/passwd | cat -d : -f1,6
